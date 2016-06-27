@@ -6,4 +6,15 @@ When would you want to create a repository rather than keeping all your work loc
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
   Somebody might have added new version of a file that I have modified in the local
-  repository or somebody might have added "broken" code file to the remote repository. 
+  repository or somebody might have added "broken" code file to the remote repository.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork is used to make a copy of a repository in GitHub. This is used when we wan't
+to make a copy from a repository inside GitHub. 
+Clone is used to make a local copy from a repository. Source repository can be a
+local repository or a remote repository. Clone is used when we wan't to update 
+some repository in own PC.
+Branch is made inside of a one repository. Branch is used when we wan't to 
+update one repository without affecting the master branch
+ 
