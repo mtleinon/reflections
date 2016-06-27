@@ -2,3 +2,8 @@ When would you want to create a repository rather than keeping all your work loc
   
   When other people need to view or update the repository or I use the repository
   from several computers.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+  Somebody might have added new version of a file that I have modified in the local
+  repository or somebody might have added "broken" code file to the remote repository. 
