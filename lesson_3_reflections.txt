@@ -18,3 +18,6 @@ some repository in own PC.
 Branch is made inside of a one repository. Branch is used when we wan't to 
 update one repository without affecting the master branch
  
+What is the benefit of having a copy of the last known state of the remote stored locally?
+ 
+You can see which commits have not yet been pushed to the remote repository.
